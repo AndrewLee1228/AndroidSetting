@@ -56,4 +56,8 @@ How set prefix (e.g. “m”) to remove in Android Studio's Alt-Insert getter/se
 2. Checked, Blank likes > After return tag (Option)
 3. Checked, Other > Do not wrap one line comments
 
+# 터미널 에뮬레이터 변경
+기본 bash셸 에서 Z 셸로 변경해보자
+[]()
+
 
