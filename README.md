@@ -58,6 +58,7 @@ How set prefix (e.g. “m”) to remove in Android Studio's Alt-Insert getter/se
 
 # 터미널 에뮬레이터 변경
 기본 bash셸 에서 Z 셸로 변경해보자
-[]()
+![image](https://user-images.githubusercontent.com/14108523/70901951-1d033780-203f-11ea-89b9-be3636d670d8.png)
+
 
 
