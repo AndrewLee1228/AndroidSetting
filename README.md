@@ -60,5 +60,6 @@ How set prefix (e.g. “m”) to remove in Android Studio's Alt-Insert getter/se
 기본 bash셸 에서 Z 셸로 변경해보자
 ![image](https://user-images.githubusercontent.com/14108523/70901951-1d033780-203f-11ea-89b9-be3636d670d8.png)
 
+![image](https://user-images.githubusercontent.com/14108523/70902027-402de700-203f-11ea-9752-6244fe35cf5a.png)
 
 
